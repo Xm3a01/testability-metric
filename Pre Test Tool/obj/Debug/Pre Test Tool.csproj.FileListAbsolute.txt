@@ -95,3 +95,5 @@ K:\Projects\Pre Test Tool\Pre Test Tool\obj\Debug\Pre Test Tool.exe.licenses
 K:\Projects\Pre Test Tool\Pre Test Tool\obj\Debug\Pre Test Tool.exe
 K:\Projects\Pre Test Tool\Pre Test Tool\obj\Debug\Pre Test Tool.pdb
 K:\Projects\Pre Test Tool\Pre Test Tool\obj\Debug\Pre_Test_Tool.Form2.resources
+K:\Projects\Pre Test Tool\Pre Test Tool\bin\Debug\FuzzyLibrary.dll
+K:\Projects\Pre Test Tool\Pre Test Tool\bin\Debug\FuzzyLibraryNative.dll

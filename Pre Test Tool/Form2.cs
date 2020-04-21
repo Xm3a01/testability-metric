@@ -1,4 +1,5 @@
-﻿using System;
+﻿
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -7,6 +8,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using MathWorks.MATLAB.NET.Arrays;
+using MathWorks.MATLAB.NET.Utility;
 
 namespace Pre_Test_Tool
 {
@@ -18,7 +21,7 @@ namespace Pre_Test_Tool
             XMLParser xml = new XMLParser(@"K:\Download\test.xml");
             int count = (xml.rootItem.children.Count - xml.getAllConnections().Count);
             decimal sccop =  0 , scoh = 0 , sccd = 0;
-
+            FuzzyLib.MyFuzzy FIM = new FuzzyLib.MyFuzzy();
             foreach (XMLItem item in xml.rootItem.children)
             {
                 if (item._getProperty("ItemKind") != "DiagramConnector")
@@ -33,6 +36,8 @@ namespace Pre_Test_Tool
                     ccoh.Items.Add(xml.Cohesion(item).ToString("F"));
                     cop.Items.Add(xml.Coupling(item).ToString("F"));
                     cdp.Items.Add(str);
+                    double x = IFuzzyMetric.fuzzication(xml.Cohesion(item), (double)xml.Coupling(item), (double)xml.CDep(item));
+                    te.Items.Add(x.ToString());
                 }
             }
 

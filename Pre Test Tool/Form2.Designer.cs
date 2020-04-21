@@ -30,85 +30,85 @@
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form2));
             this.panel1 = new System.Windows.Forms.Panel();
-            this.panel2 = new System.Windows.Forms.Panel();
-            this.panel3 = new System.Windows.Forms.Panel();
-            this.label1 = new System.Windows.Forms.Label();
-            this.label2 = new System.Windows.Forms.Label();
-            this.panel4 = new System.Windows.Forms.Panel();
-            this.label3 = new System.Windows.Forms.Label();
-            this.panel5 = new System.Windows.Forms.Panel();
-            this.label4 = new System.Windows.Forms.Label();
-            this.panel6 = new System.Windows.Forms.Panel();
-            this.label5 = new System.Windows.Forms.Label();
-            this.panel7 = new System.Windows.Forms.Panel();
-            this.label6 = new System.Windows.Forms.Label();
-            this.panel8 = new System.Windows.Forms.Panel();
-            this.label7 = new System.Windows.Forms.Label();
-            this.panel9 = new System.Windows.Forms.Panel();
-            this.panel10 = new System.Windows.Forms.Panel();
-            this.panel11 = new System.Windows.Forms.Panel();
-            this.panel12 = new System.Windows.Forms.Panel();
-            this.panel13 = new System.Windows.Forms.Panel();
-            this.panel14 = new System.Windows.Forms.Panel();
-            this.panel15 = new System.Windows.Forms.Panel();
-            this.panel16 = new System.Windows.Forms.Panel();
-            this.panel17 = new System.Windows.Forms.Panel();
-            this.panel18 = new System.Windows.Forms.Panel();
-            this.panel19 = new System.Windows.Forms.Panel();
-            this.label11 = new System.Windows.Forms.Label();
             this.panel20 = new System.Windows.Forms.Panel();
             this.label12 = new System.Windows.Forms.Label();
+            this.panel19 = new System.Windows.Forms.Panel();
+            this.label11 = new System.Windows.Forms.Label();
+            this.panel6 = new System.Windows.Forms.Panel();
+            this.label5 = new System.Windows.Forms.Label();
+            this.panel5 = new System.Windows.Forms.Panel();
+            this.label4 = new System.Windows.Forms.Label();
+            this.panel4 = new System.Windows.Forms.Panel();
+            this.label3 = new System.Windows.Forms.Label();
+            this.panel2 = new System.Windows.Forms.Panel();
+            this.label1 = new System.Windows.Forms.Label();
+            this.panel3 = new System.Windows.Forms.Panel();
+            this.label2 = new System.Windows.Forms.Label();
+            this.panel7 = new System.Windows.Forms.Panel();
+            this.panel10 = new System.Windows.Forms.Panel();
+            this.panel11 = new System.Windows.Forms.Panel();
+            this.component = new DevExpress.XtraEditors.ListBoxControl();
             this.panel21 = new System.Windows.Forms.Panel();
+            this.label7 = new System.Windows.Forms.Label();
+            this.panel12 = new System.Windows.Forms.Panel();
+            this.label6 = new System.Windows.Forms.Label();
+            this.panel8 = new System.Windows.Forms.Panel();
+            this.ccoh = new DevExpress.XtraEditors.ListBoxControl();
             this.panel22 = new System.Windows.Forms.Panel();
             this.label13 = new System.Windows.Forms.Label();
+            this.panel13 = new System.Windows.Forms.Panel();
+            this.sccoh = new System.Windows.Forms.Label();
+            this.panel9 = new System.Windows.Forms.Panel();
+            this.cop = new DevExpress.XtraEditors.ListBoxControl();
             this.panel23 = new System.Windows.Forms.Panel();
             this.label14 = new System.Windows.Forms.Label();
+            this.panel14 = new System.Windows.Forms.Panel();
+            this.scop = new System.Windows.Forms.Label();
+            this.panel15 = new System.Windows.Forms.Panel();
+            this.cdp = new DevExpress.XtraEditors.ListBoxControl();
             this.panel24 = new System.Windows.Forms.Panel();
             this.label15 = new System.Windows.Forms.Label();
+            this.panel16 = new System.Windows.Forms.Panel();
+            this.ccd = new System.Windows.Forms.Label();
+            this.panel17 = new System.Windows.Forms.Panel();
+            this.te = new DevExpress.XtraEditors.ListBoxControl();
             this.panel25 = new System.Windows.Forms.Panel();
             this.label16 = new System.Windows.Forms.Label();
-            this.component = new DevExpress.XtraEditors.ListBoxControl();
-            this.ccoh = new DevExpress.XtraEditors.ListBoxControl();
-            this.cop = new DevExpress.XtraEditors.ListBoxControl();
-            this.cdp = new DevExpress.XtraEditors.ListBoxControl();
-            this.te = new DevExpress.XtraEditors.ListBoxControl();
+            this.panel18 = new System.Windows.Forms.Panel();
             this.panel26 = new System.Windows.Forms.Panel();
             this.panel27 = new System.Windows.Forms.Panel();
             this.label8 = new System.Windows.Forms.Label();
-            this.listBoxControl1 = new DevExpress.XtraEditors.ListBoxControl();
-            this.sccoh = new System.Windows.Forms.Label();
-            this.scop = new System.Windows.Forms.Label();
-            this.ccd = new System.Windows.Forms.Label();
+            this.rat = new DevExpress.XtraEditors.ListBoxControl();
             this.panel1.SuspendLayout();
+            this.panel20.SuspendLayout();
+            this.panel19.SuspendLayout();
+            this.panel6.SuspendLayout();
+            this.panel5.SuspendLayout();
+            this.panel4.SuspendLayout();
             this.panel2.SuspendLayout();
             this.panel3.SuspendLayout();
-            this.panel4.SuspendLayout();
-            this.panel5.SuspendLayout();
-            this.panel6.SuspendLayout();
             this.panel7.SuspendLayout();
-            this.panel8.SuspendLayout();
-            this.panel9.SuspendLayout();
             this.panel10.SuspendLayout();
             this.panel11.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.component)).BeginInit();
+            this.panel21.SuspendLayout();
+            this.panel8.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.ccoh)).BeginInit();
+            this.panel22.SuspendLayout();
             this.panel13.SuspendLayout();
+            this.panel9.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.cop)).BeginInit();
+            this.panel23.SuspendLayout();
             this.panel14.SuspendLayout();
             this.panel15.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.cdp)).BeginInit();
+            this.panel24.SuspendLayout();
             this.panel16.SuspendLayout();
             this.panel17.SuspendLayout();
-            this.panel19.SuspendLayout();
-            this.panel20.SuspendLayout();
-            this.panel21.SuspendLayout();
-            this.panel22.SuspendLayout();
-            this.panel23.SuspendLayout();
-            this.panel24.SuspendLayout();
-            this.panel25.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.component)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ccoh)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.cop)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.cdp)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.te)).BeginInit();
+            this.panel25.SuspendLayout();
             this.panel27.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.listBoxControl1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.rat)).BeginInit();
             this.SuspendLayout();
             // 
             // panel1
@@ -126,62 +126,62 @@
             this.panel1.Size = new System.Drawing.Size(978, 44);
             this.panel1.TabIndex = 0;
             // 
-            // panel2
+            // panel20
             // 
-            this.panel2.Controls.Add(this.label1);
-            this.panel2.Dock = System.Windows.Forms.DockStyle.Left;
-            this.panel2.Location = new System.Drawing.Point(0, 0);
-            this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(140, 42);
-            this.panel2.TabIndex = 0;
+            this.panel20.Controls.Add(this.label12);
+            this.panel20.Dock = System.Windows.Forms.DockStyle.Left;
+            this.panel20.Location = new System.Drawing.Point(700, 0);
+            this.panel20.Name = "panel20";
+            this.panel20.Size = new System.Drawing.Size(140, 42);
+            this.panel20.TabIndex = 5;
             // 
-            // panel3
+            // label12
             // 
-            this.panel3.Controls.Add(this.label2);
-            this.panel3.Dock = System.Windows.Forms.DockStyle.Left;
-            this.panel3.Location = new System.Drawing.Point(0, 44);
-            this.panel3.Name = "panel3";
-            this.panel3.Size = new System.Drawing.Size(141, 473);
-            this.panel3.TabIndex = 1;
+            this.label12.AutoSize = true;
+            this.label12.Font = new System.Drawing.Font("Tahoma", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label12.Location = new System.Drawing.Point(49, 8);
+            this.label12.Name = "label12";
+            this.label12.Size = new System.Drawing.Size(23, 16);
+            this.label12.TabIndex = 0;
+            this.label12.Text = "TE";
             // 
-            // label1
+            // panel19
             // 
-            this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Tahoma", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(48, 8);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(53, 16);
-            this.label1.TabIndex = 0;
-            this.label1.Text = "Phase 1";
+            this.panel19.Controls.Add(this.label11);
+            this.panel19.Dock = System.Windows.Forms.DockStyle.Left;
+            this.panel19.Location = new System.Drawing.Point(560, 0);
+            this.panel19.Name = "panel19";
+            this.panel19.Size = new System.Drawing.Size(140, 42);
+            this.panel19.TabIndex = 4;
             // 
-            // label2
+            // label11
             // 
-            this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("Tahoma", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(49, 168);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(53, 16);
-            this.label2.TabIndex = 0;
-            this.label2.Text = "Phase 2";
+            this.label11.AutoSize = true;
+            this.label11.Font = new System.Drawing.Font("Tahoma", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label11.Location = new System.Drawing.Point(49, 8);
+            this.label11.Name = "label11";
+            this.label11.Size = new System.Drawing.Size(32, 16);
+            this.label11.TabIndex = 0;
+            this.label11.Text = "CCD";
             // 
-            // panel4
+            // panel6
             // 
-            this.panel4.Controls.Add(this.label3);
-            this.panel4.Dock = System.Windows.Forms.DockStyle.Left;
-            this.panel4.Location = new System.Drawing.Point(140, 0);
-            this.panel4.Name = "panel4";
-            this.panel4.Size = new System.Drawing.Size(140, 42);
-            this.panel4.TabIndex = 1;
+            this.panel6.Controls.Add(this.label5);
+            this.panel6.Dock = System.Windows.Forms.DockStyle.Left;
+            this.panel6.Location = new System.Drawing.Point(420, 0);
+            this.panel6.Name = "panel6";
+            this.panel6.Size = new System.Drawing.Size(140, 42);
+            this.panel6.TabIndex = 3;
             // 
-            // label3
+            // label5
             // 
-            this.label3.AutoSize = true;
-            this.label3.Font = new System.Drawing.Font("Tahoma", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(49, 8);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(50, 16);
-            this.label3.TabIndex = 0;
-            this.label3.Text = "System";
+            this.label5.AutoSize = true;
+            this.label5.Font = new System.Drawing.Font("Tahoma", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label5.Location = new System.Drawing.Point(49, 8);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(38, 16);
+            this.label5.TabIndex = 0;
+            this.label5.Text = "SCop";
             // 
             // panel5
             // 
@@ -203,24 +203,62 @@
             this.label4.Text = "SCcoh";
             this.label4.Click += new System.EventHandler(this.label4_Click);
             // 
-            // panel6
+            // panel4
             // 
-            this.panel6.Controls.Add(this.label5);
-            this.panel6.Dock = System.Windows.Forms.DockStyle.Left;
-            this.panel6.Location = new System.Drawing.Point(420, 0);
-            this.panel6.Name = "panel6";
-            this.panel6.Size = new System.Drawing.Size(140, 42);
-            this.panel6.TabIndex = 3;
+            this.panel4.Controls.Add(this.label3);
+            this.panel4.Dock = System.Windows.Forms.DockStyle.Left;
+            this.panel4.Location = new System.Drawing.Point(140, 0);
+            this.panel4.Name = "panel4";
+            this.panel4.Size = new System.Drawing.Size(140, 42);
+            this.panel4.TabIndex = 1;
             // 
-            // label5
+            // label3
             // 
-            this.label5.AutoSize = true;
-            this.label5.Font = new System.Drawing.Font("Tahoma", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label5.Location = new System.Drawing.Point(49, 8);
-            this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(38, 16);
-            this.label5.TabIndex = 0;
-            this.label5.Text = "SCop";
+            this.label3.AutoSize = true;
+            this.label3.Font = new System.Drawing.Font("Tahoma", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label3.Location = new System.Drawing.Point(49, 8);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(50, 16);
+            this.label3.TabIndex = 0;
+            this.label3.Text = "System";
+            // 
+            // panel2
+            // 
+            this.panel2.Controls.Add(this.label1);
+            this.panel2.Dock = System.Windows.Forms.DockStyle.Left;
+            this.panel2.Location = new System.Drawing.Point(0, 0);
+            this.panel2.Name = "panel2";
+            this.panel2.Size = new System.Drawing.Size(140, 42);
+            this.panel2.TabIndex = 0;
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Tahoma", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Location = new System.Drawing.Point(48, 8);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(53, 16);
+            this.label1.TabIndex = 0;
+            this.label1.Text = "Phase 1";
+            // 
+            // panel3
+            // 
+            this.panel3.Controls.Add(this.label2);
+            this.panel3.Dock = System.Windows.Forms.DockStyle.Left;
+            this.panel3.Location = new System.Drawing.Point(0, 44);
+            this.panel3.Name = "panel3";
+            this.panel3.Size = new System.Drawing.Size(141, 473);
+            this.panel3.TabIndex = 1;
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Font = new System.Drawing.Font("Tahoma", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.Location = new System.Drawing.Point(49, 168);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(53, 16);
+            this.label2.TabIndex = 0;
+            this.label2.Text = "Phase 2";
             // 
             // panel7
             // 
@@ -231,6 +269,68 @@
             this.panel7.Name = "panel7";
             this.panel7.Size = new System.Drawing.Size(141, 473);
             this.panel7.TabIndex = 2;
+            // 
+            // panel10
+            // 
+            this.panel10.Controls.Add(this.panel11);
+            this.panel10.Dock = System.Windows.Forms.DockStyle.Left;
+            this.panel10.Location = new System.Drawing.Point(0, 0);
+            this.panel10.Name = "panel10";
+            this.panel10.Size = new System.Drawing.Size(140, 473);
+            this.panel10.TabIndex = 2;
+            // 
+            // panel11
+            // 
+            this.panel11.Controls.Add(this.component);
+            this.panel11.Controls.Add(this.panel21);
+            this.panel11.Controls.Add(this.panel12);
+            this.panel11.Dock = System.Windows.Forms.DockStyle.Left;
+            this.panel11.Location = new System.Drawing.Point(0, 0);
+            this.panel11.Name = "panel11";
+            this.panel11.Size = new System.Drawing.Size(140, 473);
+            this.panel11.TabIndex = 1;
+            // 
+            // component
+            // 
+            this.component.Appearance.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(65)))), ((int)(((byte)(65)))), ((int)(((byte)(65)))));
+            this.component.Appearance.Font = new System.Drawing.Font("Tahoma", 11F);
+            this.component.Appearance.Options.UseBackColor = true;
+            this.component.Appearance.Options.UseFont = true;
+            this.component.BorderStyle = DevExpress.XtraEditors.Controls.BorderStyles.NoBorder;
+            this.component.Cursor = System.Windows.Forms.Cursors.Default;
+            this.component.Dock = System.Windows.Forms.DockStyle.Top;
+            this.component.Location = new System.Drawing.Point(0, 86);
+            this.component.Name = "component";
+            this.component.Size = new System.Drawing.Size(140, 395);
+            this.component.TabIndex = 10;
+            // 
+            // panel21
+            // 
+            this.panel21.Controls.Add(this.label7);
+            this.panel21.Dock = System.Windows.Forms.DockStyle.Top;
+            this.panel21.Location = new System.Drawing.Point(0, 43);
+            this.panel21.Name = "panel21";
+            this.panel21.Size = new System.Drawing.Size(140, 43);
+            this.panel21.TabIndex = 1;
+            // 
+            // label7
+            // 
+            this.label7.AutoSize = true;
+            this.label7.Font = new System.Drawing.Font("Tahoma", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label7.Location = new System.Drawing.Point(29, 14);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(73, 16);
+            this.label7.TabIndex = 0;
+            this.label7.Text = "Component";
+            // 
+            // panel12
+            // 
+            this.panel12.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.panel12.Dock = System.Windows.Forms.DockStyle.Top;
+            this.panel12.Location = new System.Drawing.Point(0, 0);
+            this.panel12.Name = "panel12";
+            this.panel12.Size = new System.Drawing.Size(140, 43);
+            this.panel12.TabIndex = 0;
             // 
             // label6
             // 
@@ -254,163 +354,21 @@
             this.panel8.TabIndex = 3;
             this.panel8.Paint += new System.Windows.Forms.PaintEventHandler(this.panel8_Paint);
             // 
-            // label7
+            // ccoh
             // 
-            this.label7.AutoSize = true;
-            this.label7.Font = new System.Drawing.Font("Tahoma", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label7.Location = new System.Drawing.Point(29, 14);
-            this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(73, 16);
-            this.label7.TabIndex = 0;
-            this.label7.Text = "Component";
-            // 
-            // panel9
-            // 
-            this.panel9.Controls.Add(this.cop);
-            this.panel9.Controls.Add(this.panel23);
-            this.panel9.Controls.Add(this.panel14);
-            this.panel9.Dock = System.Windows.Forms.DockStyle.Left;
-            this.panel9.Location = new System.Drawing.Point(421, 44);
-            this.panel9.Name = "panel9";
-            this.panel9.Size = new System.Drawing.Size(140, 473);
-            this.panel9.TabIndex = 4;
-            // 
-            // panel10
-            // 
-            this.panel10.Controls.Add(this.panel11);
-            this.panel10.Dock = System.Windows.Forms.DockStyle.Left;
-            this.panel10.Location = new System.Drawing.Point(0, 0);
-            this.panel10.Name = "panel10";
-            this.panel10.Size = new System.Drawing.Size(140, 473);
-            this.panel10.TabIndex = 2;
-            // 
-            // panel11
-            // 
-            this.panel11.Controls.Add(this.component);
-            this.panel11.Controls.Add(this.panel21);
-            this.panel11.Controls.Add(this.panel12);
-            this.panel11.Dock = System.Windows.Forms.DockStyle.Left;
-            this.panel11.Location = new System.Drawing.Point(0, 0);
-            this.panel11.Name = "panel11";
-            this.panel11.Size = new System.Drawing.Size(140, 473);
-            this.panel11.TabIndex = 1;
-            // 
-            // panel12
-            // 
-            this.panel12.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.panel12.Dock = System.Windows.Forms.DockStyle.Top;
-            this.panel12.Location = new System.Drawing.Point(0, 0);
-            this.panel12.Name = "panel12";
-            this.panel12.Size = new System.Drawing.Size(140, 43);
-            this.panel12.TabIndex = 0;
-            // 
-            // panel13
-            // 
-            this.panel13.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.panel13.Controls.Add(this.sccoh);
-            this.panel13.Dock = System.Windows.Forms.DockStyle.Top;
-            this.panel13.Location = new System.Drawing.Point(0, 0);
-            this.panel13.Name = "panel13";
-            this.panel13.Size = new System.Drawing.Size(139, 43);
-            this.panel13.TabIndex = 1;
-            // 
-            // panel14
-            // 
-            this.panel14.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.panel14.Controls.Add(this.scop);
-            this.panel14.Dock = System.Windows.Forms.DockStyle.Top;
-            this.panel14.Location = new System.Drawing.Point(0, 0);
-            this.panel14.Name = "panel14";
-            this.panel14.Size = new System.Drawing.Size(140, 43);
-            this.panel14.TabIndex = 1;
-            // 
-            // panel15
-            // 
-            this.panel15.Controls.Add(this.cdp);
-            this.panel15.Controls.Add(this.panel24);
-            this.panel15.Controls.Add(this.panel16);
-            this.panel15.Dock = System.Windows.Forms.DockStyle.Left;
-            this.panel15.Location = new System.Drawing.Point(561, 44);
-            this.panel15.Name = "panel15";
-            this.panel15.Size = new System.Drawing.Size(140, 473);
-            this.panel15.TabIndex = 5;
-            // 
-            // panel16
-            // 
-            this.panel16.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.panel16.Controls.Add(this.ccd);
-            this.panel16.Dock = System.Windows.Forms.DockStyle.Top;
-            this.panel16.Location = new System.Drawing.Point(0, 0);
-            this.panel16.Name = "panel16";
-            this.panel16.Size = new System.Drawing.Size(140, 43);
-            this.panel16.TabIndex = 1;
-            // 
-            // panel17
-            // 
-            this.panel17.Controls.Add(this.te);
-            this.panel17.Controls.Add(this.panel25);
-            this.panel17.Controls.Add(this.panel18);
-            this.panel17.Dock = System.Windows.Forms.DockStyle.Left;
-            this.panel17.Location = new System.Drawing.Point(701, 44);
-            this.panel17.Name = "panel17";
-            this.panel17.Size = new System.Drawing.Size(140, 473);
-            this.panel17.TabIndex = 6;
-            // 
-            // panel18
-            // 
-            this.panel18.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.panel18.Dock = System.Windows.Forms.DockStyle.Top;
-            this.panel18.Location = new System.Drawing.Point(0, 0);
-            this.panel18.Name = "panel18";
-            this.panel18.Size = new System.Drawing.Size(140, 43);
-            this.panel18.TabIndex = 1;
-            // 
-            // panel19
-            // 
-            this.panel19.Controls.Add(this.label11);
-            this.panel19.Dock = System.Windows.Forms.DockStyle.Left;
-            this.panel19.Location = new System.Drawing.Point(560, 0);
-            this.panel19.Name = "panel19";
-            this.panel19.Size = new System.Drawing.Size(140, 42);
-            this.panel19.TabIndex = 4;
-            // 
-            // label11
-            // 
-            this.label11.AutoSize = true;
-            this.label11.Font = new System.Drawing.Font("Tahoma", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label11.Location = new System.Drawing.Point(49, 8);
-            this.label11.Name = "label11";
-            this.label11.Size = new System.Drawing.Size(32, 16);
-            this.label11.TabIndex = 0;
-            this.label11.Text = "CCD";
-            // 
-            // panel20
-            // 
-            this.panel20.Controls.Add(this.label12);
-            this.panel20.Dock = System.Windows.Forms.DockStyle.Left;
-            this.panel20.Location = new System.Drawing.Point(700, 0);
-            this.panel20.Name = "panel20";
-            this.panel20.Size = new System.Drawing.Size(140, 42);
-            this.panel20.TabIndex = 5;
-            // 
-            // label12
-            // 
-            this.label12.AutoSize = true;
-            this.label12.Font = new System.Drawing.Font("Tahoma", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label12.Location = new System.Drawing.Point(49, 8);
-            this.label12.Name = "label12";
-            this.label12.Size = new System.Drawing.Size(23, 16);
-            this.label12.TabIndex = 0;
-            this.label12.Text = "TE";
-            // 
-            // panel21
-            // 
-            this.panel21.Controls.Add(this.label7);
-            this.panel21.Dock = System.Windows.Forms.DockStyle.Top;
-            this.panel21.Location = new System.Drawing.Point(0, 43);
-            this.panel21.Name = "panel21";
-            this.panel21.Size = new System.Drawing.Size(140, 43);
-            this.panel21.TabIndex = 1;
+            this.ccoh.Appearance.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(65)))), ((int)(((byte)(65)))), ((int)(((byte)(65)))));
+            this.ccoh.Appearance.Font = new System.Drawing.Font("Tahoma", 11F);
+            this.ccoh.Appearance.Options.UseBackColor = true;
+            this.ccoh.Appearance.Options.UseFont = true;
+            this.ccoh.Appearance.Options.UseTextOptions = true;
+            this.ccoh.Appearance.TextOptions.HAlignment = DevExpress.Utils.HorzAlignment.Center;
+            this.ccoh.BorderStyle = DevExpress.XtraEditors.Controls.BorderStyles.NoBorder;
+            this.ccoh.Cursor = System.Windows.Forms.Cursors.Default;
+            this.ccoh.Dock = System.Windows.Forms.DockStyle.Top;
+            this.ccoh.Location = new System.Drawing.Point(0, 86);
+            this.ccoh.Name = "ccoh";
+            this.ccoh.Size = new System.Drawing.Size(139, 395);
+            this.ccoh.TabIndex = 10;
             // 
             // panel22
             // 
@@ -431,6 +389,53 @@
             this.label13.TabIndex = 1;
             this.label13.Text = "Ccoh";
             // 
+            // panel13
+            // 
+            this.panel13.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.panel13.Controls.Add(this.sccoh);
+            this.panel13.Dock = System.Windows.Forms.DockStyle.Top;
+            this.panel13.Location = new System.Drawing.Point(0, 0);
+            this.panel13.Name = "panel13";
+            this.panel13.Size = new System.Drawing.Size(139, 43);
+            this.panel13.TabIndex = 1;
+            // 
+            // sccoh
+            // 
+            this.sccoh.AutoSize = true;
+            this.sccoh.Font = new System.Drawing.Font("Tahoma", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.sccoh.Location = new System.Drawing.Point(43, 13);
+            this.sccoh.Name = "sccoh";
+            this.sccoh.Size = new System.Drawing.Size(33, 16);
+            this.sccoh.TabIndex = 1;
+            this.sccoh.Text = "0.00";
+            // 
+            // panel9
+            // 
+            this.panel9.Controls.Add(this.cop);
+            this.panel9.Controls.Add(this.panel23);
+            this.panel9.Controls.Add(this.panel14);
+            this.panel9.Dock = System.Windows.Forms.DockStyle.Left;
+            this.panel9.Location = new System.Drawing.Point(421, 44);
+            this.panel9.Name = "panel9";
+            this.panel9.Size = new System.Drawing.Size(140, 473);
+            this.panel9.TabIndex = 4;
+            // 
+            // cop
+            // 
+            this.cop.Appearance.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(65)))), ((int)(((byte)(65)))), ((int)(((byte)(65)))));
+            this.cop.Appearance.Font = new System.Drawing.Font("Tahoma", 11F);
+            this.cop.Appearance.Options.UseBackColor = true;
+            this.cop.Appearance.Options.UseFont = true;
+            this.cop.Appearance.Options.UseTextOptions = true;
+            this.cop.Appearance.TextOptions.HAlignment = DevExpress.Utils.HorzAlignment.Center;
+            this.cop.BorderStyle = DevExpress.XtraEditors.Controls.BorderStyles.NoBorder;
+            this.cop.Cursor = System.Windows.Forms.Cursors.Default;
+            this.cop.Dock = System.Windows.Forms.DockStyle.Top;
+            this.cop.Location = new System.Drawing.Point(0, 86);
+            this.cop.Name = "cop";
+            this.cop.Size = new System.Drawing.Size(140, 395);
+            this.cop.TabIndex = 10;
+            // 
             // panel23
             // 
             this.panel23.Controls.Add(this.label14);
@@ -449,6 +454,53 @@
             this.label14.Size = new System.Drawing.Size(30, 16);
             this.label14.TabIndex = 1;
             this.label14.Text = "Cop";
+            // 
+            // panel14
+            // 
+            this.panel14.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.panel14.Controls.Add(this.scop);
+            this.panel14.Dock = System.Windows.Forms.DockStyle.Top;
+            this.panel14.Location = new System.Drawing.Point(0, 0);
+            this.panel14.Name = "panel14";
+            this.panel14.Size = new System.Drawing.Size(140, 43);
+            this.panel14.TabIndex = 1;
+            // 
+            // scop
+            // 
+            this.scop.AutoSize = true;
+            this.scop.Font = new System.Drawing.Font("Tahoma", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.scop.Location = new System.Drawing.Point(44, 13);
+            this.scop.Name = "scop";
+            this.scop.Size = new System.Drawing.Size(33, 16);
+            this.scop.TabIndex = 1;
+            this.scop.Text = "0.00";
+            // 
+            // panel15
+            // 
+            this.panel15.Controls.Add(this.cdp);
+            this.panel15.Controls.Add(this.panel24);
+            this.panel15.Controls.Add(this.panel16);
+            this.panel15.Dock = System.Windows.Forms.DockStyle.Left;
+            this.panel15.Location = new System.Drawing.Point(561, 44);
+            this.panel15.Name = "panel15";
+            this.panel15.Size = new System.Drawing.Size(140, 473);
+            this.panel15.TabIndex = 5;
+            // 
+            // cdp
+            // 
+            this.cdp.Appearance.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(65)))), ((int)(((byte)(65)))), ((int)(((byte)(65)))));
+            this.cdp.Appearance.Font = new System.Drawing.Font("Tahoma", 11F);
+            this.cdp.Appearance.Options.UseBackColor = true;
+            this.cdp.Appearance.Options.UseFont = true;
+            this.cdp.Appearance.Options.UseTextOptions = true;
+            this.cdp.Appearance.TextOptions.HAlignment = DevExpress.Utils.HorzAlignment.Center;
+            this.cdp.BorderStyle = DevExpress.XtraEditors.Controls.BorderStyles.NoBorder;
+            this.cdp.Cursor = System.Windows.Forms.Cursors.Default;
+            this.cdp.Dock = System.Windows.Forms.DockStyle.Top;
+            this.cdp.Location = new System.Drawing.Point(0, 86);
+            this.cdp.Name = "cdp";
+            this.cdp.Size = new System.Drawing.Size(140, 395);
+            this.cdp.TabIndex = 10;
             // 
             // panel24
             // 
@@ -469,6 +521,53 @@
             this.label15.TabIndex = 1;
             this.label15.Text = "CDEP";
             // 
+            // panel16
+            // 
+            this.panel16.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.panel16.Controls.Add(this.ccd);
+            this.panel16.Dock = System.Windows.Forms.DockStyle.Top;
+            this.panel16.Location = new System.Drawing.Point(0, 0);
+            this.panel16.Name = "panel16";
+            this.panel16.Size = new System.Drawing.Size(140, 43);
+            this.panel16.TabIndex = 1;
+            // 
+            // ccd
+            // 
+            this.ccd.AutoSize = true;
+            this.ccd.Font = new System.Drawing.Font("Tahoma", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.ccd.Location = new System.Drawing.Point(44, 13);
+            this.ccd.Name = "ccd";
+            this.ccd.Size = new System.Drawing.Size(33, 16);
+            this.ccd.TabIndex = 1;
+            this.ccd.Text = "0.00";
+            // 
+            // panel17
+            // 
+            this.panel17.Controls.Add(this.te);
+            this.panel17.Controls.Add(this.panel25);
+            this.panel17.Controls.Add(this.panel18);
+            this.panel17.Dock = System.Windows.Forms.DockStyle.Left;
+            this.panel17.Location = new System.Drawing.Point(701, 44);
+            this.panel17.Name = "panel17";
+            this.panel17.Size = new System.Drawing.Size(140, 473);
+            this.panel17.TabIndex = 6;
+            // 
+            // te
+            // 
+            this.te.Appearance.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(65)))), ((int)(((byte)(65)))), ((int)(((byte)(65)))));
+            this.te.Appearance.Font = new System.Drawing.Font("Tahoma", 11F);
+            this.te.Appearance.Options.UseBackColor = true;
+            this.te.Appearance.Options.UseFont = true;
+            this.te.Appearance.Options.UseTextOptions = true;
+            this.te.Appearance.TextOptions.HAlignment = DevExpress.Utils.HorzAlignment.Center;
+            this.te.BorderStyle = DevExpress.XtraEditors.Controls.BorderStyles.NoBorder;
+            this.te.Cursor = System.Windows.Forms.Cursors.Default;
+            this.te.Dock = System.Windows.Forms.DockStyle.Top;
+            this.te.Location = new System.Drawing.Point(0, 86);
+            this.te.Name = "te";
+            this.te.Size = new System.Drawing.Size(140, 395);
+            this.te.TabIndex = 10;
+            // 
             // panel25
             // 
             this.panel25.Controls.Add(this.label16);
@@ -488,83 +587,14 @@
             this.label16.TabIndex = 1;
             this.label16.Text = "TE";
             // 
-            // component
+            // panel18
             // 
-            this.component.Appearance.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(65)))), ((int)(((byte)(65)))), ((int)(((byte)(65)))));
-            this.component.Appearance.Font = new System.Drawing.Font("Tahoma", 11F);
-            this.component.Appearance.Options.UseBackColor = true;
-            this.component.Appearance.Options.UseFont = true;
-            this.component.BorderStyle = DevExpress.XtraEditors.Controls.BorderStyles.NoBorder;
-            this.component.Cursor = System.Windows.Forms.Cursors.Default;
-            this.component.Dock = System.Windows.Forms.DockStyle.Top;
-            this.component.Location = new System.Drawing.Point(0, 86);
-            this.component.Name = "component";
-            this.component.Size = new System.Drawing.Size(140, 395);
-            this.component.TabIndex = 10;
-            // 
-            // ccoh
-            // 
-            this.ccoh.Appearance.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(65)))), ((int)(((byte)(65)))), ((int)(((byte)(65)))));
-            this.ccoh.Appearance.Font = new System.Drawing.Font("Tahoma", 11F);
-            this.ccoh.Appearance.Options.UseBackColor = true;
-            this.ccoh.Appearance.Options.UseFont = true;
-            this.ccoh.Appearance.Options.UseTextOptions = true;
-            this.ccoh.Appearance.TextOptions.HAlignment = DevExpress.Utils.HorzAlignment.Center;
-            this.ccoh.BorderStyle = DevExpress.XtraEditors.Controls.BorderStyles.NoBorder;
-            this.ccoh.Cursor = System.Windows.Forms.Cursors.Default;
-            this.ccoh.Dock = System.Windows.Forms.DockStyle.Top;
-            this.ccoh.Location = new System.Drawing.Point(0, 86);
-            this.ccoh.Name = "ccoh";
-            this.ccoh.Size = new System.Drawing.Size(139, 395);
-            this.ccoh.TabIndex = 10;
-            // 
-            // cop
-            // 
-            this.cop.Appearance.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(65)))), ((int)(((byte)(65)))), ((int)(((byte)(65)))));
-            this.cop.Appearance.Font = new System.Drawing.Font("Tahoma", 11F);
-            this.cop.Appearance.Options.UseBackColor = true;
-            this.cop.Appearance.Options.UseFont = true;
-            this.cop.Appearance.Options.UseTextOptions = true;
-            this.cop.Appearance.TextOptions.HAlignment = DevExpress.Utils.HorzAlignment.Center;
-            this.cop.BorderStyle = DevExpress.XtraEditors.Controls.BorderStyles.NoBorder;
-            this.cop.Cursor = System.Windows.Forms.Cursors.Default;
-            this.cop.Dock = System.Windows.Forms.DockStyle.Top;
-            this.cop.Location = new System.Drawing.Point(0, 86);
-            this.cop.Name = "cop";
-            this.cop.Size = new System.Drawing.Size(140, 395);
-            this.cop.TabIndex = 10;
-            // 
-            // cdp
-            // 
-            this.cdp.Appearance.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(65)))), ((int)(((byte)(65)))), ((int)(((byte)(65)))));
-            this.cdp.Appearance.Font = new System.Drawing.Font("Tahoma", 11F);
-            this.cdp.Appearance.Options.UseBackColor = true;
-            this.cdp.Appearance.Options.UseFont = true;
-            this.cdp.Appearance.Options.UseTextOptions = true;
-            this.cdp.Appearance.TextOptions.HAlignment = DevExpress.Utils.HorzAlignment.Center;
-            this.cdp.BorderStyle = DevExpress.XtraEditors.Controls.BorderStyles.NoBorder;
-            this.cdp.Cursor = System.Windows.Forms.Cursors.Default;
-            this.cdp.Dock = System.Windows.Forms.DockStyle.Top;
-            this.cdp.Location = new System.Drawing.Point(0, 86);
-            this.cdp.Name = "cdp";
-            this.cdp.Size = new System.Drawing.Size(140, 395);
-            this.cdp.TabIndex = 10;
-            // 
-            // te
-            // 
-            this.te.Appearance.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(65)))), ((int)(((byte)(65)))), ((int)(((byte)(65)))));
-            this.te.Appearance.Font = new System.Drawing.Font("Tahoma", 11F);
-            this.te.Appearance.Options.UseBackColor = true;
-            this.te.Appearance.Options.UseFont = true;
-            this.te.Appearance.Options.UseTextOptions = true;
-            this.te.Appearance.TextOptions.HAlignment = DevExpress.Utils.HorzAlignment.Center;
-            this.te.BorderStyle = DevExpress.XtraEditors.Controls.BorderStyles.NoBorder;
-            this.te.Cursor = System.Windows.Forms.Cursors.Default;
-            this.te.Dock = System.Windows.Forms.DockStyle.Top;
-            this.te.Location = new System.Drawing.Point(0, 86);
-            this.te.Name = "te";
-            this.te.Size = new System.Drawing.Size(140, 395);
-            this.te.TabIndex = 10;
+            this.panel18.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.panel18.Dock = System.Windows.Forms.DockStyle.Top;
+            this.panel18.Location = new System.Drawing.Point(0, 0);
+            this.panel18.Name = "panel18";
+            this.panel18.Size = new System.Drawing.Size(140, 43);
+            this.panel18.TabIndex = 1;
             // 
             // panel26
             // 
@@ -594,58 +624,28 @@
             this.label8.TabIndex = 1;
             this.label8.Text = "TE";
             // 
-            // listBoxControl1
+            // rat
             // 
-            this.listBoxControl1.Appearance.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(65)))), ((int)(((byte)(65)))), ((int)(((byte)(65)))));
-            this.listBoxControl1.Appearance.Font = new System.Drawing.Font("Tahoma", 11F);
-            this.listBoxControl1.Appearance.Options.UseBackColor = true;
-            this.listBoxControl1.Appearance.Options.UseFont = true;
-            this.listBoxControl1.Appearance.Options.UseTextOptions = true;
-            this.listBoxControl1.Appearance.TextOptions.HAlignment = DevExpress.Utils.HorzAlignment.Center;
-            this.listBoxControl1.BorderStyle = DevExpress.XtraEditors.Controls.BorderStyles.NoBorder;
-            this.listBoxControl1.Cursor = System.Windows.Forms.Cursors.Default;
-            this.listBoxControl1.Dock = System.Windows.Forms.DockStyle.Top;
-            this.listBoxControl1.Location = new System.Drawing.Point(841, 130);
-            this.listBoxControl1.Name = "listBoxControl1";
-            this.listBoxControl1.Size = new System.Drawing.Size(137, 395);
-            this.listBoxControl1.TabIndex = 11;
-            // 
-            // sccoh
-            // 
-            this.sccoh.AutoSize = true;
-            this.sccoh.Font = new System.Drawing.Font("Tahoma", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.sccoh.Location = new System.Drawing.Point(43, 13);
-            this.sccoh.Name = "sccoh";
-            this.sccoh.Size = new System.Drawing.Size(33, 16);
-            this.sccoh.TabIndex = 1;
-            this.sccoh.Text = "0.00";
-            // 
-            // scop
-            // 
-            this.scop.AutoSize = true;
-            this.scop.Font = new System.Drawing.Font("Tahoma", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.scop.Location = new System.Drawing.Point(44, 13);
-            this.scop.Name = "scop";
-            this.scop.Size = new System.Drawing.Size(33, 16);
-            this.scop.TabIndex = 1;
-            this.scop.Text = "0.00";
-            // 
-            // ccd
-            // 
-            this.ccd.AutoSize = true;
-            this.ccd.Font = new System.Drawing.Font("Tahoma", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.ccd.Location = new System.Drawing.Point(44, 13);
-            this.ccd.Name = "ccd";
-            this.ccd.Size = new System.Drawing.Size(33, 16);
-            this.ccd.TabIndex = 1;
-            this.ccd.Text = "0.00";
+            this.rat.Appearance.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(65)))), ((int)(((byte)(65)))), ((int)(((byte)(65)))));
+            this.rat.Appearance.Font = new System.Drawing.Font("Tahoma", 11F);
+            this.rat.Appearance.Options.UseBackColor = true;
+            this.rat.Appearance.Options.UseFont = true;
+            this.rat.Appearance.Options.UseTextOptions = true;
+            this.rat.Appearance.TextOptions.HAlignment = DevExpress.Utils.HorzAlignment.Center;
+            this.rat.BorderStyle = DevExpress.XtraEditors.Controls.BorderStyles.NoBorder;
+            this.rat.Cursor = System.Windows.Forms.Cursors.Default;
+            this.rat.Dock = System.Windows.Forms.DockStyle.Top;
+            this.rat.Location = new System.Drawing.Point(841, 130);
+            this.rat.Name = "rat";
+            this.rat.Size = new System.Drawing.Size(137, 395);
+            this.rat.TabIndex = 11;
             // 
             // Form2
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(978, 517);
-            this.Controls.Add(this.listBoxControl1);
+            this.Controls.Add(this.rat);
             this.Controls.Add(this.panel27);
             this.Controls.Add(this.panel26);
             this.Controls.Add(this.panel17);
@@ -661,52 +661,52 @@
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Result";
             this.panel1.ResumeLayout(false);
+            this.panel20.ResumeLayout(false);
+            this.panel20.PerformLayout();
+            this.panel19.ResumeLayout(false);
+            this.panel19.PerformLayout();
+            this.panel6.ResumeLayout(false);
+            this.panel6.PerformLayout();
+            this.panel5.ResumeLayout(false);
+            this.panel5.PerformLayout();
+            this.panel4.ResumeLayout(false);
+            this.panel4.PerformLayout();
             this.panel2.ResumeLayout(false);
             this.panel2.PerformLayout();
             this.panel3.ResumeLayout(false);
             this.panel3.PerformLayout();
-            this.panel4.ResumeLayout(false);
-            this.panel4.PerformLayout();
-            this.panel5.ResumeLayout(false);
-            this.panel5.PerformLayout();
-            this.panel6.ResumeLayout(false);
-            this.panel6.PerformLayout();
             this.panel7.ResumeLayout(false);
             this.panel7.PerformLayout();
-            this.panel8.ResumeLayout(false);
-            this.panel9.ResumeLayout(false);
             this.panel10.ResumeLayout(false);
             this.panel11.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.component)).EndInit();
+            this.panel21.ResumeLayout(false);
+            this.panel21.PerformLayout();
+            this.panel8.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.ccoh)).EndInit();
+            this.panel22.ResumeLayout(false);
+            this.panel22.PerformLayout();
             this.panel13.ResumeLayout(false);
             this.panel13.PerformLayout();
+            this.panel9.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.cop)).EndInit();
+            this.panel23.ResumeLayout(false);
+            this.panel23.PerformLayout();
             this.panel14.ResumeLayout(false);
             this.panel14.PerformLayout();
             this.panel15.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.cdp)).EndInit();
+            this.panel24.ResumeLayout(false);
+            this.panel24.PerformLayout();
             this.panel16.ResumeLayout(false);
             this.panel16.PerformLayout();
             this.panel17.ResumeLayout(false);
-            this.panel19.ResumeLayout(false);
-            this.panel19.PerformLayout();
-            this.panel20.ResumeLayout(false);
-            this.panel20.PerformLayout();
-            this.panel21.ResumeLayout(false);
-            this.panel21.PerformLayout();
-            this.panel22.ResumeLayout(false);
-            this.panel22.PerformLayout();
-            this.panel23.ResumeLayout(false);
-            this.panel23.PerformLayout();
-            this.panel24.ResumeLayout(false);
-            this.panel24.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.te)).EndInit();
             this.panel25.ResumeLayout(false);
             this.panel25.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.component)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ccoh)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.cop)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.cdp)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.te)).EndInit();
             this.panel27.ResumeLayout(false);
             this.panel27.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.listBoxControl1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.rat)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -759,7 +759,7 @@
         private System.Windows.Forms.Panel panel26;
         private System.Windows.Forms.Panel panel27;
         private System.Windows.Forms.Label label8;
-        private DevExpress.XtraEditors.ListBoxControl listBoxControl1;
+        private DevExpress.XtraEditors.ListBoxControl rat;
         private System.Windows.Forms.Label sccoh;
         private System.Windows.Forms.Label scop;
         private System.Windows.Forms.Label ccd;
