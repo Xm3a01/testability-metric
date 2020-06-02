@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pre Test Tool", "Pre Test Tool\Pre Test Tool.csproj", "{057B157E-4EDE-494D-9770-7427AF405174}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "MATLABInterfaceLibrary", "MATLABInterfaceLibrary\MATLABInterfaceLibrary.vbproj", "{030DE23C-E118-46AD-958C-73C63EE4F884}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test", "test\test.csproj", "{8A270D46-456D-4199-A44B-ACA06FA68B78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{057B157E-4EDE-494D-9770-7427AF405174}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{057B157E-4EDE-494D-9770-7427AF405174}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{057B157E-4EDE-494D-9770-7427AF405174}.Debug|x64.ActiveCfg = Debug|x64
+		{057B157E-4EDE-494D-9770-7427AF405174}.Debug|x64.Build.0 = Debug|x64
+		{057B157E-4EDE-494D-9770-7427AF405174}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{057B157E-4EDE-494D-9770-7427AF405174}.Release|Any CPU.Build.0 = Release|Any CPU
+		{057B157E-4EDE-494D-9770-7427AF405174}.Release|x64.ActiveCfg = Release|x64
+		{057B157E-4EDE-494D-9770-7427AF405174}.Release|x64.Build.0 = Release|x64
+		{030DE23C-E118-46AD-958C-73C63EE4F884}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{030DE23C-E118-46AD-958C-73C63EE4F884}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{030DE23C-E118-46AD-958C-73C63EE4F884}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{030DE23C-E118-46AD-958C-73C63EE4F884}.Debug|x64.Build.0 = Debug|Any CPU
+		{030DE23C-E118-46AD-958C-73C63EE4F884}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{030DE23C-E118-46AD-958C-73C63EE4F884}.Release|Any CPU.Build.0 = Release|Any CPU
+		{030DE23C-E118-46AD-958C-73C63EE4F884}.Release|x64.ActiveCfg = Release|Any CPU
+		{030DE23C-E118-46AD-958C-73C63EE4F884}.Release|x64.Build.0 = Release|Any CPU
+		{8A270D46-456D-4199-A44B-ACA06FA68B78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A270D46-456D-4199-A44B-ACA06FA68B78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A270D46-456D-4199-A44B-ACA06FA68B78}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{8A270D46-456D-4199-A44B-ACA06FA68B78}.Debug|x64.Build.0 = Debug|Any CPU
+		{8A270D46-456D-4199-A44B-ACA06FA68B78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A270D46-456D-4199-A44B-ACA06FA68B78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A270D46-456D-4199-A44B-ACA06FA68B78}.Release|x64.ActiveCfg = Release|Any CPU
+		{8A270D46-456D-4199-A44B-ACA06FA68B78}.Release|x64.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
