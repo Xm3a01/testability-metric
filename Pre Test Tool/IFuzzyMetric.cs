@@ -38,5 +38,36 @@ namespace Pre_Test_Tool
 
             return testEfort;
         }
+
+        public static String rate(double coh, double cop, double dep)
+        {
+            String r = "";
+            if ((coh >= 0.0 && coh <= 0.2) && (cop >= 0.0 && cop <= 0.2) || (dep >= 0.0 && dep <= 0.2))
+            {
+                r = "v low";
+            }
+
+            else if ((coh >= 0.1 && coh <= 0.4) && (cop >= 0.1 && cop <= 0.4) || (dep >= 0.1 && dep <= 0.4))
+            {
+                r = "low";
+            }
+
+            else if ((coh >= 0.3 && coh <= 0.7) && (cop >= 0.3 && cop <= 0.7) || (dep >= 0.3 && dep <= 0.7))
+            {
+                r = "med";
+            }
+
+            else if ((coh >= 0.6 && coh <= 0.9) && (cop >= 0.6 && cop <= 0.9) || (dep >= 0.6 && dep <= 0.9))
+            {
+                r = "high";
+            }
+
+            if ((coh >= 0.8 && coh <= 1) && (cop >= 0.8 && cop <= 1) || (dep >= 0.8 && dep <= 1))
+            {
+                r = "v high";
+            }
+
+            return r;
+        }
     }
 }

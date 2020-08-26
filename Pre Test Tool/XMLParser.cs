@@ -135,6 +135,12 @@ namespace Pre_Test_Tool
             return sum;
         }
 
+        public int allComponentCount(String componet)
+        {
+            XMLItem comp = getComponent(componet);
+            return comp.children.Count;
+        }
+
         // sub components
         public int getSubComponents(String containerName)
         {
